@@ -7,10 +7,12 @@
 
 <div>
     <a href="https://github.com/marigomes-br" target="_blank">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&layout=compact&theme=dracula)"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&theme=dracula&include_all_commits=true&custom_title=Estatísticas GitHub"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&count_private=true&show_icons=true&layout=compact&theme=dracula&custom_title=Linguagens Usadas"/> 
     </a>
+    
 </div>
+
 
 ---
 
@@ -41,9 +43,9 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  align="center" alt="sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img  align="center" alt="sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+   <img align="center" alt="sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
   
