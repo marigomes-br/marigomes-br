@@ -7,15 +7,15 @@
 
 <div>
     <a href="https://github.com/marigomes-br" target="_blank">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=Estatísticas GitHub"/>
-         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&custom_title=Linguagens Usadas"/>
     </a>
 </div>
 
 
 ---
 
-## Contatos
+## 📞 Contatos
 
 <div>
    <a href = "mailto:maregomes@outlook.com">
@@ -33,7 +33,7 @@
 
 ---
 
-## Estilizações e Linguagens
+## 📚 Estilizações e Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
