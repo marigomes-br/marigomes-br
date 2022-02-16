@@ -1,6 +1,6 @@
-### 🌎 Hello World!
-### 👩🏼‍💻 Me chamo Mariana Gomes 
-#### 🖥️ Analista e Desenvolvedora de Sistemas
+### 🌎 <> Hello World </> 🌎
+### 👩🏼‍💻 Mariana Gomes
+### 🖥️ Analista e Desenvolvedora de Sistemas
 
 ---
 
@@ -8,7 +8,7 @@
 <div>
     <a href="https://github.com/marigomes-br" target="_blank">
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=Estatísticas GitHub"/>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
+         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </div>
 
