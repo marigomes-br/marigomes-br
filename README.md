@@ -7,9 +7,9 @@
 
 <div>
     <a href="https://github.com/marigomes-br" target="_blank">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&custom_title=Estatísticas GitHub"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&custom_title=Estatísticas GitHub"/>
+         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&theme=dracula&custom_title=Most Used Languages"/>
     </a>
-    
 </div>
 
 
