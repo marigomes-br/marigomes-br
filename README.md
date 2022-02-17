@@ -12,7 +12,7 @@
     </a>
 </div>
 
-
+##### *As demais linguagens que não apareceram estão em repositórios privados
 ---
 
 ## 📞 Contatos
