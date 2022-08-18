@@ -1,6 +1,5 @@
 ### 🌎 <> Hello World </> 🌎
-### 👩🏼‍💻 Mariana Gomes
-### 🖥️ Analista e Desenvolvedora de Sistemas
+### 👩🏼‍💻 Analista e Desenvolvedora de Sistemas
 
 ---
 
