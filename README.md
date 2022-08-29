@@ -7,9 +7,10 @@
 <div>
     <a href="https://github.com/marigomes-br" target="_blank">
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marigomes-br&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&custom_title=Linguagens Usadas"/>
     </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=8&layout=compact&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### *As demais linguagens que não apareceram estão em repositórios privados
 ---
@@ -39,7 +40,6 @@
   <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img  align="center" alt="sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
