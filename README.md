@@ -1,5 +1,5 @@
 ### 🌎 <> Hello World </> 🌎
-### 👩🏼‍💻 Analista e Desenvolvedora de Sistemas
+### 👩🏼‍💻 Software Engineer @ John Deere
 
 ---
 
