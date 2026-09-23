@@ -1,5 +1,5 @@
 ### 🌎 <> Hello World </> 🌎
-### 👩🏼‍💻 Software Engineer @ John Deere
+### 👩🏼‍💻 Software Test Automation Engineer @ John Deere
 
 ---
 
@@ -10,7 +10,6 @@
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marigomes-br&langs_count=8&layout=compact&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### *As demais linguagens que não apareceram estão em repositórios privados
 ---
